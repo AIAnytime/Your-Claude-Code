@@ -4,12 +4,12 @@ A minimalist AI coding assistant built with **LangGraph** and **MCP (Model Conte
 
 ## ✨ Features
 
-- 🔄 **StateGraph Workflow**: Clean three-node architecture (user_input → model_response → tool_use)
-- 💾 **Persistent State**: SQLite-based checkpointing for conversation history
-- 🛠️ **Local Tools**: File operations, pytest integration, code search
-- 🌐 **MCP Integration**: Desktop Commander, DuckDuckGo, GitHub (optional)
-- 🎨 **Rich Terminal UI**: Colorful, hacker-style interface with emojis
-- 🔍 **Debugging**: Full conversation history tracking in SQLite
+- **StateGraph Workflow**: Clean three-node architecture (user_input → model_response → tool_use)
+- **Persistent State**: SQLite-based checkpointing for conversation history
+- **Local Tools**: File operations, pytest integration, code search
+- **MCP Integration**: Desktop Commander, DuckDuckGo, GitHub (optional)
+- **Rich Terminal UI**: Colorful, hacker-style interface with emojis
+- **Debugging**: Full conversation history tracking in SQLite
 
 ## 🏗️ Architecture
 
@@ -37,7 +37,7 @@ A minimalist AI coding assistant built with **LangGraph** and **MCP (Model Conte
       └──────────────┘
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -74,7 +74,7 @@ uv sync
 uv run main.py
 ```
 
-## 🎮 Usage
+## Usage
 
 Once started, you'll see a colorful terminal interface. Try these commands:
 
@@ -97,7 +97,7 @@ exit/quit/q   - Exit the assistant
 "Read the README file"
 ```
 
-## 🛠️ Available Tools
+## Available Tools
 
 ### Local Tools (Built-in)
 
@@ -134,7 +134,7 @@ npm install -g @modelcontextprotocol/server-github
 docker build -t deno-docker:latest -f ./mcps/deno/Dockerfile ./mcps/deno
 ```
 
-## 📊 State Persistence & Debugging
+## State Persistence & Debugging
 
 All conversations are saved in `checkpoints.db`. You can inspect the state:
 
@@ -146,7 +146,7 @@ sqlite3 checkpoints.db "SELECT * FROM writes LIMIT 5"
 sqlite3 checkpoints.db "SELECT * FROM checkpoints LIMIT 5"
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 
@@ -200,7 +200,7 @@ claude-code-tool/
 └── README.md
 ```
 
-## 🎨 UI Customization
+## UI Customization
 
 The assistant uses [Rich](https://github.com/Textualize/rich) for terminal UI. Customize the appearance in `agent.py`:
 
@@ -208,7 +208,7 @@ The assistant uses [Rich](https://github.com/Textualize/rich) for terminal UI. C
 - Colors: Modify the style strings (e.g., `[bold cyan]`)
 - Panels: Adjust `Panel()` configurations
 
-## 🧪 Testing
+## Testing
 
 The assistant includes pytest integration. To test:
 
@@ -220,14 +220,14 @@ The assistant includes pytest integration. To test:
 uv run pytest -v
 ```
 
-## 🔒 Security Considerations
+## Security Considerations
 
 - **File Access**: By default, tools can access the entire filesystem. Consider restricting access in production.
 - **Code Execution**: The sandboxed Python MCP runs in Docker/Deno for isolation.
 - **API Keys**: Never commit `.env` files. Use environment variables.
 - **Tool Permissions**: Review tool descriptions and limit sensitive operations.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Areas for improvement:
 
@@ -238,7 +238,7 @@ Contributions are welcome! Areas for improvement:
 - [ ] Add conversation export/import
 - [ ] Web UI interface
 
-## 📝 How It Works
+## How It Works
 
 ### StateGraph Flow
 
