@@ -2,6 +2,8 @@
 
 A minimalist AI coding assistant built with **LangGraph** and **MCP (Model Context Protocol)**. This project demonstrates how to create a functional coding assistant with a clean architecture, stripping away the complexity to understand the core concepts.
 
+![GraphViz Diagram](./graphviz.svg)
+
 ## ✨ Features
 
 - **StateGraph Workflow**: Clean three-node architecture (user_input → model_response → tool_use)
