@@ -1,0 +1,30 @@
+[project]
+name = "claude-code-assistant"
+version = "0.1.0"
+description = "A minimalist AI coding assistant using LangGraph and MCP"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=0.3.0",
+    "langchain-anthropic>=0.3.0",
+    "langgraph>=0.2.0",
+    "langgraph-checkpoint-sqlite>=2.0.0",
+    "langchain-mcp>=0.1.0",
+    "pydantic>=2.0.0",
+    "rich>=13.0.0",
+    "pytest>=8.0.0",
+    "python-dotenv>=1.0.0",
+    "aiosqlite>=0.20.0",
+]
+
+[project.scripts]
+claude-code = "main:main"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["main", "agent"]
+
+[tool.uv]
+dev-dependencies = []
