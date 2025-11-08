@@ -1,0 +1,302 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600pt" height="1109pt" viewBox="0.00 0.00 1600.00 1109.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(36 1073)">
+<title>ClaudeCodeAssistant</title>
+<polygon fill="#1e1e1e" stroke="none" points="-36,36 -36,-1073 1564,-1073 1564,36 -36,36"/>
+<g id="clust1" class="cluster">
+<title>cluster_user</title>
+<path fill="#1e1e1e" stroke="#4a9eff" stroke-dasharray="5,2" d="M532,-731.4C532,-731.4 761,-731.4 761,-731.4 767,-731.4 773,-737.4 773,-743.4 773,-743.4 773,-988.2 773,-988.2 773,-994.2 767,-1000.2 761,-1000.2 761,-1000.2 532,-1000.2 532,-1000.2 526,-1000.2 520,-994.2 520,-988.2 520,-988.2 520,-743.4 520,-743.4 520,-737.4 526,-731.4 532,-731.4"/>
+<text xml:space="preserve" text-anchor="middle" x="646.5" y="-983.6" font-family="Arial" font-size="14.00" fill="white">User Interaction Layer</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_app</title>
+<path fill="#1e1e1e" stroke="#4ade80" stroke-dasharray="5,2" d="M458,-301.8C458,-301.8 618,-301.8 618,-301.8 624,-301.8 630,-307.8 630,-313.8 630,-313.8 630,-671.4 630,-671.4 630,-677.4 624,-683.4 618,-683.4 618,-683.4 458,-683.4 458,-683.4 452,-683.4 446,-677.4 446,-671.4 446,-671.4 446,-313.8 446,-313.8 446,-307.8 452,-301.8 458,-301.8"/>
+<text xml:space="preserve" text-anchor="middle" x="538" y="-666.8" font-family="Arial" font-size="14.00" fill="white">Application Layer</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_core</title>
+<path fill="#1e1e1e" stroke="#f59e0b" stroke-dasharray="5,2" d="M151,-143.4C151,-143.4 654,-143.4 654,-143.4 660,-143.4 666,-149.4 666,-155.4 666,-155.4 666,-229.8 666,-229.8 666,-235.8 660,-241.8 654,-241.8 654,-241.8 151,-241.8 151,-241.8 145,-241.8 139,-235.8 139,-229.8 139,-229.8 139,-155.4 139,-155.4 139,-149.4 145,-143.4 151,-143.4"/>
+<text xml:space="preserve" text-anchor="middle" x="402.5" y="-225.2" font-family="Arial" font-size="14.00" fill="white">Core Components</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_tools</title>
+<path fill="#1e1e1e" stroke="#a855f7" stroke-dasharray="5,2" d="M720,-143.4C720,-143.4 1011,-143.4 1011,-143.4 1017,-143.4 1023,-149.4 1023,-155.4 1023,-155.4 1023,-229.8 1023,-229.8 1023,-235.8 1017,-241.8 1011,-241.8 1011,-241.8 720,-241.8 720,-241.8 714,-241.8 708,-235.8 708,-229.8 708,-229.8 708,-155.4 708,-155.4 708,-149.4 714,-143.4 720,-143.4"/>
+<text xml:space="preserve" text-anchor="middle" x="865.5" y="-225.2" font-family="Arial" font-size="14.00" fill="white">Tools Layer</text>
+</g>
+<g id="clust5" class="cluster">
+<title>cluster_local</title>
+<path fill="#1e1e1e" stroke="#818cf8" d="M20,-15.2C20,-15.2 996,-15.2 996,-15.2 1002,-15.2 1008,-21.2 1008,-27.2 1008,-27.2 1008,-87.2 1008,-87.2 1008,-93.2 1002,-99.2 996,-99.2 996,-99.2 20,-99.2 20,-99.2 14,-99.2 8,-93.2 8,-87.2 8,-87.2 8,-27.2 8,-27.2 8,-21.2 14,-15.2 20,-15.2"/>
+<text xml:space="preserve" text-anchor="middle" x="508" y="-82.6" font-family="Arial" font-size="14.00" fill="white">Local Tools</text>
+</g>
+<g id="clust6" class="cluster">
+<title>cluster_mcp</title>
+<path fill="#1e1e1e" stroke="#ec4899" d="M1062,-8C1062,-8 1508,-8 1508,-8 1514,-8 1520,-14 1520,-20 1520,-20 1520,-94.4 1520,-94.4 1520,-100.4 1514,-106.4 1508,-106.4 1508,-106.4 1062,-106.4 1062,-106.4 1056,-106.4 1050,-100.4 1050,-94.4 1050,-94.4 1050,-20 1050,-20 1050,-14 1056,-8 1062,-8"/>
+<text xml:space="preserve" text-anchor="middle" x="1285" y="-89.8" font-family="Arial" font-size="14.00" fill="white">MCP Servers (Optional)</text>
+</g>
+<g id="clust7" class="cluster">
+<title>cluster_legend</title>
+<path fill="#1e1e1e" stroke="#666666" d="M1030,-873C1030,-873 1212,-873 1212,-873 1218,-873 1224,-879 1224,-885 1224,-885 1224,-1017 1224,-1017 1224,-1023 1218,-1029 1212,-1029 1212,-1029 1030,-1029 1030,-1029 1024,-1029 1018,-1023 1018,-1017 1018,-1017 1018,-885 1018,-885 1018,-879 1024,-873 1030,-873"/>
+<text xml:space="preserve" text-anchor="middle" x="1121" y="-1012.4" font-family="Arial" font-size="14.00" fill="white">Key Features</text>
+</g>
+<!-- user -->
+<g id="node1" class="node">
+<title>user</title>
+<path fill="#2d5f8d" stroke="black" d="M683.93,-967.4C683.93,-967.4 610.07,-967.4 610.07,-967.4 604.07,-967.4 598.07,-961.4 598.07,-955.4 598.07,-955.4 598.07,-921.8 598.07,-921.8 598.07,-915.8 604.07,-909.8 610.07,-909.8 610.07,-909.8 683.93,-909.8 683.93,-909.8 689.93,-909.8 695.93,-915.8 695.93,-921.8 695.93,-921.8 695.93,-955.4 695.93,-955.4 695.93,-961.4 689.93,-967.4 683.93,-967.4"/>
+<text xml:space="preserve" text-anchor="middle" x="647" y="-942.2" font-family="Arial" font-size="12.00" fill="white">👤 User</text>
+<text xml:space="preserve" text-anchor="middle" x="647" y="-927.8" font-family="Arial" font-size="12.00" fill="white">(Terminal)</text>
+</g>
+<!-- cli -->
+<g id="node2" class="node">
+<title>cli</title>
+<path fill="#2d5f8d" stroke="black" d="M688.94,-797C688.94,-797 605.06,-797 605.06,-797 599.06,-797 593.06,-791 593.06,-785 593.06,-785 593.06,-751.4 593.06,-751.4 593.06,-745.4 599.06,-739.4 605.06,-739.4 605.06,-739.4 688.94,-739.4 688.94,-739.4 694.94,-739.4 700.94,-745.4 700.94,-751.4 700.94,-751.4 700.94,-785 700.94,-785 700.94,-791 694.94,-797 688.94,-797"/>
+<text xml:space="preserve" text-anchor="middle" x="647" y="-771.8" font-family="Arial" font-size="12.00" fill="white">🎨 Rich CLI</text>
+<text xml:space="preserve" text-anchor="middle" x="647" y="-757.4" font-family="Arial" font-size="12.00" fill="white">(Colorful UI)</text>
+</g>
+<!-- user&#45;&gt;cli -->
+<g id="edge1" class="edge">
+<title>user-&gt;cli</title>
+<path fill="none" stroke="#4a9eff" d="M663.31,-909.31C663.31,-909.31 663.31,-808.91 663.31,-808.91"/>
+<polygon fill="#4a9eff" stroke="#4a9eff" points="666.81,-808.91 663.31,-798.91 659.81,-808.91 666.81,-808.91"/>
+<text xml:space="preserve" text-anchor="middle" x="616.02" y="-836" font-family="Arial" font-size="10.00" fill="#4a9eff">types request</text>
+</g>
+<!-- cli&#45;&gt;user -->
+<g id="edge21" class="edge">
+<title>cli-&gt;user</title>
+<path fill="none" stroke="#4a9eff" d="M630.69,-797.49C630.69,-797.49 630.69,-897.89 630.69,-897.89"/>
+<polygon fill="#4a9eff" stroke="#4a9eff" points="627.19,-897.89 630.69,-907.89 634.19,-897.89 627.19,-897.89"/>
+<text xml:space="preserve" text-anchor="middle" x="736.79" y="-836" font-family="Arial" font-size="10.00" fill="#4a9eff">shows result</text>
+</g>
+<!-- main -->
+<g id="node3" class="node">
+<title>main</title>
+<path fill="#166534" stroke="black" d="M601.94,-650.6C601.94,-650.6 516.06,-650.6 516.06,-650.6 510.06,-650.6 504.06,-644.6 504.06,-638.6 504.06,-638.6 504.06,-605 504.06,-605 504.06,-599 510.06,-593 516.06,-593 516.06,-593 601.94,-593 601.94,-593 607.94,-593 613.94,-599 613.94,-605 613.94,-605 613.94,-638.6 613.94,-638.6 613.94,-644.6 607.94,-650.6 601.94,-650.6"/>
+<text xml:space="preserve" text-anchor="middle" x="559" y="-625.4" font-family="Arial" font-size="12.00" fill="white">🚀 main.py</text>
+<text xml:space="preserve" text-anchor="middle" x="559" y="-611" font-family="Arial" font-size="12.00" fill="white">(Entry Point)</text>
+</g>
+<!-- cli&#45;&gt;main -->
+<g id="edge2" class="edge">
+<title>cli-&gt;main</title>
+<path fill="none" stroke="#4a9eff" d="M603.5,-738.93C603.5,-738.93 603.5,-662.54 603.5,-662.54"/>
+<polygon fill="#4a9eff" stroke="#4a9eff" points="607,-662.54 603.5,-652.54 600,-662.54 607,-662.54"/>
+<text xml:space="preserve" text-anchor="middle" x="606.79" y="-694.4" font-family="Arial" font-size="10.00" fill="#4a9eff">processes</text>
+</g>
+<!-- agent -->
+<g id="node4" class="node">
+<title>agent</title>
+<path fill="#16a34a" stroke="black" d="M610.3,-509C610.3,-509 465.7,-509 465.7,-509 459.7,-509 453.7,-503 453.7,-497 453.7,-497 453.7,-463.4 453.7,-463.4 453.7,-457.4 459.7,-451.4 465.7,-451.4 465.7,-451.4 610.3,-451.4 610.3,-451.4 616.3,-451.4 622.3,-457.4 622.3,-463.4 622.3,-463.4 622.3,-497 622.3,-497 622.3,-503 616.3,-509 610.3,-509"/>
+<text xml:space="preserve" text-anchor="middle" x="538" y="-483.8" font-family="Arial" font-size="12.00" fill="white">🤖 CodeAssistantAgent</text>
+<text xml:space="preserve" text-anchor="middle" x="538" y="-469.4" font-family="Arial" font-size="12.00" fill="white">(Core Agent)</text>
+</g>
+<!-- main&#45;&gt;agent -->
+<g id="edge3" class="edge">
+<title>main-&gt;agent</title>
+<path fill="none" stroke="#4ade80" d="M559,-592.8C559,-592.8 559,-520.67 559,-520.67"/>
+<polygon fill="#4ade80" stroke="#4ade80" points="562.5,-520.67 559,-510.67 555.5,-520.67 562.5,-520.67"/>
+<text xml:space="preserve" text-anchor="middle" x="572.29" y="-548" font-family="Arial" font-size="10.00" fill="#4ade80">initializes</text>
+</g>
+<!-- workflow -->
+<g id="node5" class="node">
+<title>workflow</title>
+<path fill="#22c55e" stroke="black" d="M598.62,-367.4C598.62,-367.4 501.38,-367.4 501.38,-367.4 495.38,-367.4 489.38,-361.4 489.38,-355.4 489.38,-355.4 489.38,-321.8 489.38,-321.8 489.38,-315.8 495.38,-309.8 501.38,-309.8 501.38,-309.8 598.62,-309.8 598.62,-309.8 604.62,-309.8 610.62,-315.8 610.62,-321.8 610.62,-321.8 610.62,-355.4 610.62,-355.4 610.62,-361.4 604.62,-367.4 598.62,-367.4"/>
+<text xml:space="preserve" text-anchor="middle" x="550" y="-342.2" font-family="Arial" font-size="12.00" fill="white">🔄 StateGraph</text>
+<text xml:space="preserve" text-anchor="middle" x="550" y="-327.8" font-family="Arial" font-size="12.00" fill="white">(LangGraph)</text>
+</g>
+<!-- agent&#45;&gt;workflow -->
+<g id="edge4" class="edge">
+<title>agent-&gt;workflow</title>
+<path fill="none" stroke="#4ade80" d="M550,-451.2C550,-451.2 550,-379.07 550,-379.07"/>
+<polygon fill="#4ade80" stroke="#4ade80" points="553.5,-379.07 550,-369.07 546.5,-379.07 553.5,-379.07"/>
+<text xml:space="preserve" text-anchor="middle" x="563.73" y="-406.4" font-family="Arial" font-size="10.00" fill="#4ade80">compiles</text>
+</g>
+<!-- workflow&#45;&gt;cli -->
+<g id="edge20" class="edge">
+<title>workflow-&gt;cli</title>
+<path fill="none" stroke="#4ade80" d="M610.73,-353C627.06,-353 640.29,-353 640.29,-353 640.29,-353 640.29,-727.49 640.29,-727.49"/>
+<polygon fill="#4ade80" stroke="#4ade80" points="636.79,-727.49 640.29,-737.49 643.79,-727.49 636.79,-727.49"/>
+<text xml:space="preserve" text-anchor="middle" x="728.06" y="-548" font-family="Arial" font-size="10.00" fill="#4ade80">displays</text>
+</g>
+<!-- llm -->
+<g id="node6" class="node">
+<title>llm</title>
+<path fill="#92400e" stroke="black" d="M471.64,-209C471.64,-209 336.36,-209 336.36,-209 330.36,-209 324.36,-203 324.36,-197 324.36,-197 324.36,-163.4 324.36,-163.4 324.36,-157.4 330.36,-151.4 336.36,-151.4 336.36,-151.4 471.64,-151.4 471.64,-151.4 477.64,-151.4 483.64,-157.4 483.64,-163.4 483.64,-163.4 483.64,-197 483.64,-197 483.64,-203 477.64,-209 471.64,-209"/>
+<text xml:space="preserve" text-anchor="middle" x="404" y="-183.8" font-family="Arial" font-size="12.00" fill="white">🧠 Claude Sonnet 4.5</text>
+<text xml:space="preserve" text-anchor="middle" x="404" y="-169.4" font-family="Arial" font-size="12.00" fill="white">(Anthropic API)</text>
+</g>
+<!-- workflow&#45;&gt;llm -->
+<g id="edge5" class="edge">
+<title>workflow-&gt;llm</title>
+<path fill="none" stroke="#f59e0b" d="M496.5,-309.6C496.5,-266.35 496.5,-190 496.5,-190 496.5,-190 495.26,-190 495.26,-190"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="495.54,-186.5 485.54,-190 495.54,-193.5 495.54,-186.5"/>
+<text xml:space="preserve" text-anchor="middle" x="418.4" y="-258.8" font-family="Arial" font-size="10.00" fill="#f59e0b">queries</text>
+</g>
+<!-- state -->
+<g id="node7" class="node">
+<title>state</title>
+<path fill="#b45309" stroke="black" d="M254.62,-209C254.62,-209 159.38,-209 159.38,-209 153.38,-209 147.38,-203 147.38,-197 147.38,-197 147.38,-163.4 147.38,-163.4 147.38,-157.4 153.38,-151.4 159.38,-151.4 159.38,-151.4 254.62,-151.4 254.62,-151.4 260.62,-151.4 266.62,-157.4 266.62,-163.4 266.62,-163.4 266.62,-197 266.62,-197 266.62,-203 260.62,-209 254.62,-209"/>
+<text xml:space="preserve" text-anchor="middle" x="207" y="-183.8" font-family="Arial" font-size="12.00" fill="white">📊 AgentState</text>
+<text xml:space="preserve" text-anchor="middle" x="207" y="-169.4" font-family="Arial" font-size="12.00" fill="white">(TypedDict)</text>
+</g>
+<!-- workflow&#45;&gt;state -->
+<g id="edge7" class="edge">
+<title>workflow-&gt;state</title>
+<path fill="none" stroke="#f59e0b" d="M489.07,-339C390.51,-339 207,-339 207,-339 207,-339 207,-220.84 207,-220.84"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="210.5,-220.84 207,-210.84 203.5,-220.84 210.5,-220.84"/>
+<text xml:space="preserve" text-anchor="middle" x="273.79" y="-258.8" font-family="Arial" font-size="10.00" fill="#f59e0b">updates</text>
+</g>
+<!-- checkpoint -->
+<g id="node8" class="node">
+<title>checkpoint</title>
+<path fill="#d97706" stroke="black" d="M646.28,-209C646.28,-209 553.72,-209 553.72,-209 547.72,-209 541.72,-203 541.72,-197 541.72,-197 541.72,-163.4 541.72,-163.4 541.72,-157.4 547.72,-151.4 553.72,-151.4 553.72,-151.4 646.28,-151.4 646.28,-151.4 652.28,-151.4 658.28,-157.4 658.28,-163.4 658.28,-163.4 658.28,-197 658.28,-197 658.28,-203 652.28,-209 646.28,-209"/>
+<text xml:space="preserve" text-anchor="middle" x="600" y="-183.8" font-family="Arial" font-size="12.00" fill="white">💾 SQLite DB</text>
+<text xml:space="preserve" text-anchor="middle" x="600" y="-169.4" font-family="Arial" font-size="12.00" fill="white">(Persistence)</text>
+</g>
+<!-- workflow&#45;&gt;checkpoint -->
+<g id="edge8" class="edge">
+<title>workflow-&gt;checkpoint</title>
+<path fill="none" stroke="#f59e0b" d="M576.17,-309.55C576.17,-309.55 576.17,-220.85 576.17,-220.85"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="579.67,-220.85 576.17,-210.85 572.67,-220.85 579.67,-220.85"/>
+<text xml:space="preserve" text-anchor="middle" x="619.23" y="-258.8" font-family="Arial" font-size="10.00" fill="#f59e0b">persists</text>
+</g>
+<!-- local -->
+<g id="node9" class="node">
+<title>local</title>
+<path fill="#6b21a8" stroke="black" d="M825.62,-209C825.62,-209 728.38,-209 728.38,-209 722.38,-209 716.38,-203 716.38,-197 716.38,-197 716.38,-163.4 716.38,-163.4 716.38,-157.4 722.38,-151.4 728.38,-151.4 728.38,-151.4 825.62,-151.4 825.62,-151.4 831.62,-151.4 837.62,-157.4 837.62,-163.4 837.62,-163.4 837.62,-197 837.62,-197 837.62,-203 831.62,-209 825.62,-209"/>
+<text xml:space="preserve" text-anchor="middle" x="777" y="-183.8" font-family="Arial" font-size="12.00" fill="white">🔧 Local Tools</text>
+<text xml:space="preserve" text-anchor="middle" x="777" y="-169.4" font-family="Arial" font-size="12.00" fill="white">(6 built-in)</text>
+</g>
+<!-- workflow&#45;&gt;local -->
+<g id="edge9" class="edge">
+<title>workflow-&gt;local</title>
+<path fill="none" stroke="#a855f7" d="M610.83,-324C678.07,-324 777,-324 777,-324 777,-324 777,-220.81 777,-220.81"/>
+<polygon fill="#a855f7" stroke="#a855f7" points="780.5,-220.81 777,-210.81 773.5,-220.81 780.5,-220.81"/>
+<text xml:space="preserve" text-anchor="middle" x="755.95" y="-258.8" font-family="Arial" font-size="10.00" fill="#a855f7">invokes</text>
+</g>
+<!-- mcp -->
+<g id="node10" class="node">
+<title>mcp</title>
+<path fill="#7c3aed" stroke="black" d="M1002.61,-209C1002.61,-209 907.39,-209 907.39,-209 901.39,-209 895.39,-203 895.39,-197 895.39,-197 895.39,-163.4 895.39,-163.4 895.39,-157.4 901.39,-151.4 907.39,-151.4 907.39,-151.4 1002.61,-151.4 1002.61,-151.4 1008.61,-151.4 1014.61,-157.4 1014.61,-163.4 1014.61,-163.4 1014.61,-197 1014.61,-197 1014.61,-203 1008.61,-209 1002.61,-209"/>
+<text xml:space="preserve" text-anchor="middle" x="955" y="-183.8" font-family="Arial" font-size="12.00" fill="white">🌐 MCP Tools</text>
+<text xml:space="preserve" text-anchor="middle" x="955" y="-169.4" font-family="Arial" font-size="12.00" fill="white">(Optional)</text>
+</g>
+<!-- workflow&#45;&gt;mcp -->
+<g id="edge10" class="edge">
+<title>workflow-&gt;mcp</title>
+<path fill="none" stroke="#a855f7" stroke-dasharray="5,2" d="M611.07,-339C724.21,-339 955,-339 955,-339 955,-339 955,-220.84 955,-220.84"/>
+<polygon fill="#a855f7" stroke="#a855f7" points="958.5,-220.84 955,-210.84 951.5,-220.84 958.5,-220.84"/>
+<text xml:space="preserve" text-anchor="middle" x="922.96" y="-264.8" font-family="Arial" font-size="10.00" fill="#a855f7">invokes</text>
+<text xml:space="preserve" text-anchor="middle" x="922.96" y="-252.8" font-family="Arial" font-size="10.00" fill="#a855f7">(if available)</text>
+</g>
+<!-- llm&#45;&gt;workflow -->
+<g id="edge6" class="edge">
+<title>llm-&gt;workflow</title>
+<path fill="none" stroke="#f59e0b" d="M483.77,-171C493.49,-171 500.07,-171 500.07,-171 500.07,-171 500.07,-297.89 500.07,-297.89"/>
+<polygon fill="#f59e0b" stroke="#f59e0b" points="496.57,-297.89 500.07,-307.89 503.57,-297.89 496.57,-297.89"/>
+<text xml:space="preserve" text-anchor="middle" x="518.57" y="-258.8" font-family="Arial" font-size="10.00" fill="#f59e0b">responds</text>
+</g>
+<!-- read_file -->
+<g id="node11" class="node">
+<title>read_file</title>
+<polygon fill="#4338ca" stroke="black" points="667.95,-66.4 566.05,-66.4 562.05,-62.4 562.05,-23.2 663.95,-23.2 667.95,-27.2 667.95,-66.4"/>
+<polyline fill="none" stroke="black" points="663.95,-62.4 562.05,-62.4"/>
+<polyline fill="none" stroke="black" points="663.95,-62.4 663.95,-23.2"/>
+<polyline fill="none" stroke="black" points="663.95,-62.4 667.95,-66.4"/>
+<text xml:space="preserve" text-anchor="middle" x="615" y="-41.2" font-family="Arial" font-size="12.00" fill="white">📖 read_file</text>
+</g>
+<!-- local&#45;&gt;read_file -->
+<!-- list_files -->
+<g id="node12" class="node">
+<title>list_files</title>
+<polygon fill="#4338ca" stroke="black" points="828.27,-66.4 729.73,-66.4 725.73,-62.4 725.73,-23.2 824.27,-23.2 828.27,-27.2 828.27,-66.4"/>
+<polyline fill="none" stroke="black" points="824.27,-62.4 725.73,-62.4"/>
+<polyline fill="none" stroke="black" points="824.27,-62.4 824.27,-23.2"/>
+<polyline fill="none" stroke="black" points="824.27,-62.4 828.27,-66.4"/>
+<text xml:space="preserve" text-anchor="middle" x="777" y="-41.2" font-family="Arial" font-size="12.00" fill="white">📁 list_files</text>
+</g>
+<!-- local&#45;&gt;list_files -->
+<!-- write_file -->
+<g id="node13" class="node">
+<title>write_file</title>
+<polygon fill="#4338ca" stroke="black" points="999.94,-66.4 890.06,-66.4 886.06,-62.4 886.06,-23.2 995.94,-23.2 999.94,-27.2 999.94,-66.4"/>
+<polyline fill="none" stroke="black" points="995.94,-62.4 886.06,-62.4"/>
+<polyline fill="none" stroke="black" points="995.94,-62.4 995.94,-23.2"/>
+<polyline fill="none" stroke="black" points="995.94,-62.4 999.94,-66.4"/>
+<text xml:space="preserve" text-anchor="middle" x="943" y="-41.2" font-family="Arial" font-size="12.00" fill="white">✍️ write_file</text>
+</g>
+<!-- local&#45;&gt;write_file -->
+<!-- run_pytest -->
+<g id="node14" class="node">
+<title>run_pytest</title>
+<polygon fill="#4338ca" stroke="black" points="131.95,-66.4 20.05,-66.4 16.05,-62.4 16.05,-23.2 127.95,-23.2 131.95,-27.2 131.95,-66.4"/>
+<polyline fill="none" stroke="black" points="127.95,-62.4 16.05,-62.4"/>
+<polyline fill="none" stroke="black" points="127.95,-62.4 127.95,-23.2"/>
+<polyline fill="none" stroke="black" points="127.95,-62.4 131.95,-66.4"/>
+<text xml:space="preserve" text-anchor="middle" x="74" y="-41.2" font-family="Arial" font-size="12.00" fill="white">🧪 run_pytest</text>
+</g>
+<!-- local&#45;&gt;run_pytest -->
+<!-- search_files -->
+<g id="node15" class="node">
+<title>search_files</title>
+<polygon fill="#4338ca" stroke="black" points="313.95,-66.4 194.05,-66.4 190.05,-62.4 190.05,-23.2 309.95,-23.2 313.95,-27.2 313.95,-66.4"/>
+<polyline fill="none" stroke="black" points="309.95,-62.4 190.05,-62.4"/>
+<polyline fill="none" stroke="black" points="309.95,-62.4 309.95,-23.2"/>
+<polyline fill="none" stroke="black" points="309.95,-62.4 313.95,-66.4"/>
+<text xml:space="preserve" text-anchor="middle" x="252" y="-41.2" font-family="Arial" font-size="12.00" fill="white">🔍 search_files</text>
+</g>
+<!-- local&#45;&gt;search_files -->
+<!-- get_file_info -->
+<g id="node16" class="node">
+<title>get_file_info</title>
+<polygon fill="#4338ca" stroke="black" points="503.63,-66.4 376.37,-66.4 372.37,-62.4 372.37,-23.2 499.63,-23.2 503.63,-27.2 503.63,-66.4"/>
+<polyline fill="none" stroke="black" points="499.63,-62.4 372.37,-62.4"/>
+<polyline fill="none" stroke="black" points="499.63,-62.4 499.63,-23.2"/>
+<polyline fill="none" stroke="black" points="499.63,-62.4 503.63,-66.4"/>
+<text xml:space="preserve" text-anchor="middle" x="438" y="-41.2" font-family="Arial" font-size="12.00" fill="white">ℹ️ get_file_info</text>
+</g>
+<!-- local&#45;&gt;get_file_info -->
+<!-- desktop -->
+<g id="node17" class="node">
+<title>desktop</title>
+<polygon fill="#9f1239" stroke="black" points="1167.61,-73.6 1062.39,-73.6 1058.39,-69.6 1058.39,-16 1163.61,-16 1167.61,-20 1167.61,-73.6"/>
+<polyline fill="none" stroke="black" points="1163.61,-69.6 1058.39,-69.6"/>
+<polyline fill="none" stroke="black" points="1163.61,-69.6 1163.61,-16"/>
+<polyline fill="none" stroke="black" points="1163.61,-69.6 1167.61,-73.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1113" y="-48.4" font-family="Arial" font-size="12.00" fill="white">💻 Desktop</text>
+<text xml:space="preserve" text-anchor="middle" x="1113" y="-34" font-family="Arial" font-size="12.00" fill="white">Commander</text>
+</g>
+<!-- mcp&#45;&gt;desktop -->
+<!-- web -->
+<g id="node18" class="node">
+<title>web</title>
+<polygon fill="#9f1239" stroke="black" points="1356.28,-73.6 1229.72,-73.6 1225.72,-69.6 1225.72,-16 1352.28,-16 1356.28,-20 1356.28,-73.6"/>
+<polyline fill="none" stroke="black" points="1352.28,-69.6 1225.72,-69.6"/>
+<polyline fill="none" stroke="black" points="1352.28,-69.6 1352.28,-16"/>
+<polyline fill="none" stroke="black" points="1352.28,-69.6 1356.28,-73.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1291" y="-48.4" font-family="Arial" font-size="12.00" fill="white">🌐 DuckDuckGo</text>
+<text xml:space="preserve" text-anchor="middle" x="1291" y="-34" font-family="Arial" font-size="12.00" fill="white">Search</text>
+</g>
+<!-- mcp&#45;&gt;web -->
+<!-- github -->
+<g id="node19" class="node">
+<title>github</title>
+<polygon fill="#9f1239" stroke="black" points="1511.61,-73.6 1418.39,-73.6 1414.39,-69.6 1414.39,-16 1507.61,-16 1511.61,-20 1511.61,-73.6"/>
+<polyline fill="none" stroke="black" points="1507.61,-69.6 1414.39,-69.6"/>
+<polyline fill="none" stroke="black" points="1507.61,-69.6 1507.61,-16"/>
+<polyline fill="none" stroke="black" points="1507.61,-69.6 1511.61,-73.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1463" y="-48.4" font-family="Arial" font-size="12.00" fill="white">🐙 GitHub</text>
+<text xml:space="preserve" text-anchor="middle" x="1463" y="-34" font-family="Arial" font-size="12.00" fill="white">API</text>
+</g>
+<!-- mcp&#45;&gt;github -->
+<!-- legend -->
+<g id="node20" class="node">
+<title>legend</title>
+<polygon fill="#333333" stroke="black" points="1209.63,-996.2 1026.37,-996.2 1026.37,-881 1215.63,-881 1215.63,-990.2 1209.63,-996.2"/>
+<polyline fill="none" stroke="black" points="1209.63,-996.2 1209.63,-990.2"/>
+<polyline fill="none" stroke="black" points="1215.63,-990.2 1209.63,-990.2"/>
+<text xml:space="preserve" text-anchor="middle" x="1121" y="-971" font-family="Arial" font-size="12.00" fill="#cccccc">✅ Async/Await Architecture</text>
+<text xml:space="preserve" text-anchor="middle" x="1121" y="-956.6" font-family="Arial" font-size="12.00" fill="#cccccc">✅ SQLite Persistence</text>
+<text xml:space="preserve" text-anchor="middle" x="1121" y="-942.2" font-family="Arial" font-size="12.00" fill="#cccccc">✅ 6 Core Tools</text>
+<text xml:space="preserve" text-anchor="middle" x="1121" y="-927.8" font-family="Arial" font-size="12.00" fill="#cccccc">✅ MCP Integration</text>
+<text xml:space="preserve" text-anchor="middle" x="1121" y="-913.4" font-family="Arial" font-size="12.00" fill="#cccccc">✅ Rich Terminal UI</text>
+<text xml:space="preserve" text-anchor="middle" x="1121" y="-899" font-family="Arial" font-size="12.00" fill="#cccccc">✅ Numbered Options</text>
+</g>
+</g>
+</svg>
