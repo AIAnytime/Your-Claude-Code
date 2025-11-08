@@ -269,10 +269,6 @@ Model Context Protocol servers are spawned on-demand:
 - [Anthropic Claude API](https://www.anthropic.com/api)
 - [Rich Terminal Library](https://github.com/Textualize/rich)
 
-## 📄 License
-
-MIT License - feel free to use this project for learning and experimentation!
-
 ## 🙏 Acknowledgments
 
 Inspired by the blog post on building minimalist coding assistants. This project demonstrates that complex tool stacks aren't always necessary - a simple, well-architected agent can be highly effective.
