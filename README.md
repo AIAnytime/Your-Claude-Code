@@ -4,7 +4,7 @@ A minimalist AI coding assistant built with **LangGraph** and **MCP (Model Conte
 
 ![GraphViz Diagram](./graphviz.svg)
 
-## ✨ Features
+## Features
 
 - **StateGraph Workflow**: Clean three-node architecture (user_input → model_response → tool_use)
 - **Persistent State**: SQLite-based checkpointing for conversation history
@@ -157,7 +157,7 @@ def get_local_tools():
     ]
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 claude-code-tool/
@@ -238,7 +238,7 @@ Model Context Protocol servers are spawned on-demand:
 - Minimal resource overhead
 - Clean separation of concerns
 
-## 📚 Resources
+## Resources
 
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
 - [Model Context Protocol](https://modelcontextprotocol.io/)
